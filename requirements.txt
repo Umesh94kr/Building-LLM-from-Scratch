@@ -2,3 +2,4 @@ pandas
 numpy
 regex
 tiktoken
+torch
