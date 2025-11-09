@@ -5,3 +5,4 @@ tiktoken
 torch
 gensim
 gensim[extra]
+matplotlib
