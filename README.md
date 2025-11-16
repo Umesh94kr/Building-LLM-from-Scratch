@@ -1,7 +1,5 @@
-I'll be learning all the concepts from Scratch for Coding LLM
-
 ## Stage1
-1. Data Sampling and Preparation techniques
+1. Data Sampling (the_verdict.txt is used) and Preparation techniques
 2. Implementing each component of transformer
 3. Building GPT-2 architecture 
 
