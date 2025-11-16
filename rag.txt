@@ -1,5 +1,0 @@
-Vector Data - FAISS / Algorithm to store embeddings
-LLM - Prompt tuning (Sysytem promt)
-Retrieval - (efficient / latency / query expansion / re-ranking)
-Evaluation - Golden dataset (query - expected LLM response)
-       Actual LLM Output <-> Expected LLM 
