@@ -6,3 +6,4 @@ torch
 gensim
 gensim[extra]
 matplotlib
+tqdm
