@@ -2,3 +2,4 @@ myenv
 .DS_Store
 checkpoints
 gpt2
+classifications_checkpoints
