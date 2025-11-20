@@ -11,7 +11,12 @@
 3. Building GPT-2 architecture 
 
 ## Stage2
-1. Pretraining LLM for making foundational Model 
+1. Pretraining LLM for making foundational Model
+    - Blocks of LLM
+    - Added training loop 
+    - Added evaluation loop 
+    - Save and load model weights
+    - Loading OpenAI GPT2 weights 
 
 ## Stage3 
-1. Finetuning pre-trained LLM one for classification and other for QnA
+- Finetuning for Classification of Emails as `spam` and `ham`

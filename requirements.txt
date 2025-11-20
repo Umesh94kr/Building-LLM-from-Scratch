@@ -8,3 +8,4 @@ gensim[extra]
 matplotlib
 tensorflow>=2.15.0 
 tqdm>=4.66
+pathfile
