@@ -31,6 +31,6 @@
 
 # Steps to Clone and use the repo
 - Clone the repo
-- Make virtual environment `pyhton3 -m venv myenv`
+- Make virtual environment `python3 -m venv myenv`
 - Activate the virtual environment `source myenv/bin/activate`
 - Now feel free to run and test any-noteboook
